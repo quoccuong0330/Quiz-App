@@ -1,0 +1,335 @@
+1
+Chon Tat Ca Van Ban Trong Word Ta Chon?
+A) Alt + A
+B) Ctrl + A
+C) Ctrl + Shift + A
+D) Cau 1 va Cau 2
+b
+
+2
+De Chon Mot Doan Van Ban Ta Thuc Hien:
+A) Click 1 Lan Tren Doan
+B) Click 2 Lan Tren Doan
+C) Click 3 Lan Tren Doan
+D) Click 4 Lan Tren Doan
+c
+
+3
+Trong Word,Muon Danh Dau Lua Chon Mot Tu Ta Chon?
+A) Nhap Dup Chuot Vao Tu Chon
+B) Bam To Hop Ctrl-C
+C) Nhay Chuot Vao Tu Chon
+D) Bam Phim Enter
+a
+
+4
+Trong Word,Muon Tach Mot O Trong Table Thanh Nhieu O Chon
+A) Table - Merge Cells
+B) Table - Split Cells
+C) Tools - Split Cells
+D) Table - Cells
+b
+
+5
+Gia Tri Cua =LEN(“TRUNG TAM TIN HOC”)Trong Excel La:
+A) 15
+B) 16
+C) 17
+D) 18
+c
+
+6
+Trong Excel,Ham Nao Dung De Tim Kiem
+A) Vlookup
+B) If
+C) Left
+D) Sum
+a
+
+7
+Trong Excel,De Luu Tap Tin Dang Mo duoi Ten Khac Ta Chon?
+A) File/Save As
+B) File/Save
+C) File/New
+D) Edit/Replace
+a
+
+8
+Trong Excel, Ham Today() Tra Ve:
+A) So Ngay Trong Thang
+B) So Thang Trong Nam
+C) Ngay Hien Tai Cua He Thong
+D) So gio Trong Ngay
+c
+
+9
+Trong Excel,Cac Dang Dia Chi Sau Day, Dia Chi Nao La Tuyet Doi
+A) B$1$$10$D
+B) B$1
+C) $B1:$D10
+D) $B$1:$D$10
+d
+
+10
+Trong PowerPoint De Tao Moi 1 Slide Ta Su Dung?
+A) Home->Slides->New Slide
+B) Insert->New Slide
+C) Design->New Slide
+D) View->New Slide
+a
+
+11
+Trong PowerPoint Muon Danh So Trang Cho Tung Slide Ta Dung
+A) Insert\Bullets
+B) Insert\Text\Slide Number
+C) Format\Bullets and Number
+D) Tat Ca Deu Sai
+b
+
+12
+Trong Word,Bieu Tuong Cay Choi Co Chuc Nang Gi?
+A) Sao Chep Noi Dung Van Ban
+B) Canh Le Van Ban
+C) Sao Chep Dinh Dang
+D) Mo Van Ban Da Co
+c
+
+13
+Phim Tat De Sao Chep Doi Tuong Vao ClipBoard La Gi?
+A) Ctrl + X
+B) Ctrl + C
+C) Ctrl + V
+D) Ctrl + Z
+b
+
+14
+Hop Dieu Khien Phong To,Thu Nho Dong Cua So Goi La?
+A) Dialog Box
+B) Control Box
+C) List Box
+D) Text Box
+b
+
+15
+De Dam Bao An Toan Du Lieu Ta Chon Cach Nao?
+A) Dat Thuoc Tinh Hidden
+B) Coppy Tren O Dia
+C) Dat Thuoc Tinh Read Only
+D) Sao Luu Du Phong
+d
+
+16
+Trong WinDows Chuc Nang Disk Defragment Goi La?
+A) Chong Phan Manh O Cung
+B) Lam Giam Dung Luong O Cung
+C) Sao Luu Du Lieu
+D) Lau Chui Tap Tin Rac
+a
+
+17
+Trong Word,Ctrl + O Dung De
+A) Tao Van Ban Moi
+B) Dong Van Ban Dang Lam Viec
+C) Mo Van Ban Da Co Tren PC
+D) Luu Van Ban Dang Lam Viec
+c
+
+18
+Thuoc Tinh Mo Rong Word 2010 Co Phan Mo Rong ?
+A) .doc
+B) .docx
+C) .dot
+D) .txt
+b
+
+19
+Bieu Thuc Sau=AND(5>4,6<9,2<1,10>7,OR(2<1,3>2)
+A) True
+B) False
+C) #Name?
+D) #Value!
+b
+
+20
+Dia Chi B$3 La Dia Chi
+A) Tuong Doi
+B) Tuyet Doi
+C) Hon Hop
+D) Bieu Dien Sai
+c
+
+21
+Trong PowerPoint In An Ta Su Dung Chuc Nang
+A) Home->Print
+B) Insert->Print
+C) Design->Print
+D) File->Print
+d
+
+22
+Trong PowerPoint Muon Chen Nhac Vao Silde, Ta Dung Lenh Nao?
+A) Insert->Audio
+B) Insert->Component
+C) Insert->Diagram
+D) Insert->Comment
+a
+
+23
+Tai 1 Sile Trong PowerPoint Ta Dung To Hop Phim Nao De Xoa
+A) ALT+I+D
+B) ALT+E+F
+C) ALT+E+D
+D) ALT+W+P
+c
+
+24
+Dich Vu Luu Tru Dam May Cua Microsoft La Gi?
+A) Google Driver
+B) MediaFile
+C) OneDrive
+D) Ca 3 Dap An
+c
+
+25
+Ten Mien .edu Cho Biet Website Do Thuoc Ve Linh Vuc?
+A) Chinh Phu
+B) Giao Duc
+C) Cung Cap Thong Tin
+D) To Chuc Khac
+b
+
+26
+Phan Mem Nao Sau Day Khong Phai La Trinh Duyet Web?
+A) Internet Explorer
+B) Mozilla Firefox
+C) Netcape
+D) Unikey
+d
+
+27
+Trong Word,Dinh Dang Duong Khung Cho 1 Doan Van Ban Ta Chon
+A) Picture
+B) Clip Art
+C) Word Art
+D) Tat ca Sai
+d
+
+28
+Trong PowerPoint De Ve Bieu Do Ta Chon?
+A) Design-Chart
+B) Insert-IIustration Chart
+C) Amination-Chart
+D) Home-Chart
+b
+
+29
+Y Nghia Recycle Bin Trong Windos La Gi?
+A) Trinh Duyet Web
+B) O Dia C
+C) Chua Tap Tin Da Xoa
+D) Phan Mem Game
+c
+
+30
+Trong Explorer Muon Tao Thu Muc Moi Ta Thuc Hien
+A) Tool-New-Folder
+B) View-New-Folder
+C) File-New-Folder
+D) Edit-New-Folder
+c
+
+31
+De May Tinh Lam Viec He Dieu Hanh Duoc Cai Dat O Dau
+A) Ram
+B) Rom
+C) O Dia Cung
+D) Tat Ca Sai
+c
+
+32
+Trong Word,Tao Chu Roi Cho Van Ban Ta Chon
+A) Home-DropCap
+B) Insert-DropCap
+C) View-DropCap
+D) PageLayOut-DropCap
+c
+
+33
+Trong Window , Muon Tim Kiem Tep Hay Thu Muc , Ta Thuc Hien
+A) File - Search
+B) Windows - Search
+C) Start - Search
+D) Tools - Search
+c
+
+34
+He Dieu Hanh La
+A) Phan Mem Ung Dung
+B) Phan Mem He Thong
+C) Phan Mem Tien Ich
+D) Tat Ca Deu Dung
+b
+
+35
+Nguoi Va May Tinh Giao Tiep thong Qua
+A) Ban Phim Va May Tinh
+B) He Dieu Hanh
+C) Ram
+D) Tat Ca Deu Dung
+b
+
+36
+Viet Nam Chinh thuc Gia Nhap Internet Nam Nao ?
+A) Cuoi Nam 1999
+B) Cuoi Nam 1998
+C) Cuoi Nam 1997
+D) Nuoi Nam 1996
+c
+
+37
+Trong Ket Noi Mang May Tinh Cuc Bo Gom May Loai Cap Mang ?
+A) 2
+B) 3
+C) 4
+D) 5
+b
+
+38
+Hay Chon Ra Thiet Bi Mang
+A) USB
+B) UPS
+C) Hub
+D) Webcam
+c
+
+39
+trong Mang May Tinh ,Thuat Ngu Share Co Y Nghia Gi ?
+A) Chia Se Tai Nguyen
+B) Nhan Hieu Nao Do
+C) Thuc Hien Lenh In
+D) Mot Phan Mem Ho Tro
+a
+
+40
+To Hop Phim Cua Undo la Gi ?
+A) Ctrl - Z
+B) Ctrl - X
+C) Ctrl - V
+D) Ctrl - A
+a
+
+41
+Du Lieu Trong 1 CSDL Duoc Luu Trong
+A) RAM
+B) ROM
+C) Cac Thiet Bi Vat Ly
+D) Bo Nho Ngoai
+a
+
+42
+Hoat Dong Nao Sau Day Co Su Dung CSDL ?
+A) Ban Ve May Bay
+B) Quan Ly Hoc Sinh 
+C) Ban Hang Co Quy Mo
+D) Tat Ca Deu Dung
+d
